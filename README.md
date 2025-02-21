@@ -501,7 +501,7 @@ provide semantically aligned and contextually accurate responses.
 
 ![image](https://github.com/user-attachments/assets/b2ec07b2-f5b6-4a33-9aba-74176349dbe4)
 
-  : Sample Questions Similarity and Accuracy Results for Mistral 7B
+: Sample Questions Similarity and Accuracy Results for Mistral 7B
 
 
 
@@ -582,7 +582,7 @@ system's contextual awareness, responsiveness, and overall user
 experience, solidifying its role as a reliable tool for infrastructure
 technology professionals.
 
-# Acknowledgment {#acknowledgment .unnumbered}
+# Acknowledgment 
 
 The authors would like to thank Meta and Mistral, the team behind the
 LLaMA model, for providing a powerful language tool that was
@@ -595,8 +595,7 @@ InfoTechnology web portal, the data from which was crucial for the
 training and testing of the model. These contributions were vital in
 making this project successful and effective.
 
-::: thebibliography
-00
+# References
 
 Federal Highway Administration. \"FHWA InfoTechnology Platform:
 Supporting Decision-Making for Infrastructure Management\". U.S.
