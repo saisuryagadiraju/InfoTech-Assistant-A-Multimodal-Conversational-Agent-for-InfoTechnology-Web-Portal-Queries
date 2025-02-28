@@ -1,7 +1,7 @@
 # InfoTech-Assistant-A-Multimodal-Conversational-Agent-for-InfoTechnology-Web-Portal-Queries
 Natural Language Processing (NLP), Question Answering (QA) System, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Web Scraping, Infrastructure Technology.
 
-
+https://doi.ieeecomputersociety.org/10.1109/BigData62323.2024.10825668
 ---
 abstract: |
   This pilot study presents the development of the InfoTech Assistant, a
